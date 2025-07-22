@@ -51,11 +51,11 @@ This project is built with vanilla HTML, CSS, and JavaScript and has no build de
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/Emraaaa/linear-regression-calculator](https://github.com/Emraaaa/linear-regression-calculator)
     ```
 2.  Navigate into the project directory:
     ```bash
-    cd your-repository-name
+    cd linear-regression-calculator
     ```
 3.  Open the `index.html` file directly in your web browser.
 
